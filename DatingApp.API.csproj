@@ -13,10 +13,10 @@
     <PackageReference Include="Microsoft.AspNetCore.All"/>
   </ItemGroup>
 
- <ItemGroup>
+ <!-- <ItemGroup>
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools"/>
     <DotNetCliToolReference Include="Microsoft.DotNet.Watcher.Tools"/>
     <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet"/>
- </ItemGroup>
+ </ItemGroup>   -veraltet- -->
 
 </Project>
